@@ -1,0 +1,5 @@
+2021-12-09 22:09:21,941 - root - 12 - DEBUG - var1: 1; var2: cat
+2021-12-09 22:09:29,922 - root - 17 - ERROR - This is an error message
+2021-12-09 22:09:29,922 - root - 18 - DEBUG - This debug message is ONLY seen in the console
+2021-12-09 22:09:29,922 - root - 19 - INFO - This is an info message
+2021-12-09 22:09:29,922 - root - 22 - INFO - var1: 1; var2: cat
